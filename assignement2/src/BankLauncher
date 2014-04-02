@@ -1,0 +1,5 @@
+#!/bin/bash
+
+javac bank/*.java gui/*.java
+
+java bank.BankLauncher
